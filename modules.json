@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "meta6_2",
+    "module_label": "META.6.2 - Impact Assessment on Modules & Processes",
+    "module_title": "Impact Assessment on Modules & Processes",
+    "module_slug": "impact_assessment_on_modules_and_processes",
+    "app_code": "meta6",
+    "app_label": "META 6 - Regulatory Evolution Tracker",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  },
+  {
+    "module_code": "meta6_3",
+    "module_label": "META.6.3 - Implementation Tracking",
+    "module_title": "Implementation Tracking",
+    "module_slug": "implementation_tracking",
+    "app_code": "meta6",
+    "app_label": "META 6 - Regulatory Evolution Tracker",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  },
+  {
+    "module_code": "meta6_1",
+    "module_label": "META.6.1 - Regulation Capture & Version Logging",
+    "module_title": "Regulation Capture & Version Logging",
+    "module_slug": "regulation_capture_and_version_logging",
+    "app_code": "meta6",
+    "app_label": "META 6 - Regulatory Evolution Tracker",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  }
+]
